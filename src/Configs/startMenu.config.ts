@@ -12,7 +12,6 @@ import {
     MSExcelIcon,
     MSGrooveIcon,
     MSStoreIcon,
-    VSCodeIcon,
     YourHelpIcon,
     WeatherIcon,
     WhiteBoardIcon,
@@ -32,12 +31,12 @@ export const PinnedApps: PinnedApp[] = [{
     title: "GitHub",
     icon: GitHubIcon,
     isLink: true,
-    url: "https://github.com/piyushsuthar/windows-11-web"
+    url: "https://github.com/hockerdiscord/windows-11-on-the-web-3"
 }, {
     title: "Twitter",
     icon: TwitterIcon,
     isLink: true,
-    url: "https://twitter.com/piyushsthr"
+    url: "https://twitter.com/Anhc02575791"
 }, {
     title: "Edge",
     icon: MSEdgeIcon
@@ -62,10 +61,6 @@ export const PinnedApps: PinnedApp[] = [{
 }, {
     title: "Teams",
     icon: MSTeamsIcon
-}, {
-    title: "VSCode",
-    icon: VSCodeIcon,
-    appId: "vscode"
 }, {
     title: "Music",
     icon: MSGrooveIcon
