@@ -1,5 +1,4 @@
 import { ControlPanel, RecycleBin, ThisPC } from "../assets/icons/Desktop";
-import { VSCodeIcon } from "../assets/icons/startmenu";
 
 export interface Item {
     name: string;
