@@ -9,7 +9,7 @@ export const UserProfile = () => {
           src="https://avatars.githubusercontent.com/u/32237558?v=4&s=50"
           alt="JustinL"
         />
-        <p>Piyush Suthar</p>
+        <p>JustinL</p>
       </div>
       <ShutDownIcon />
     </div>
