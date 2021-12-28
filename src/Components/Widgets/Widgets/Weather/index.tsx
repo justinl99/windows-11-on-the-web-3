@@ -16,7 +16,7 @@ export const WeatherWidget = () => {
       <div className={styles.container}>
         <div className={styles.location}>
           <HomeIcon />
-          <span>Margao, Goa, India</span>
+          <span>Binh Duong, Viet Nam</span>
         </div>
         <div class={styles.weather_info}>
           <div className={styles.weather_data}>
