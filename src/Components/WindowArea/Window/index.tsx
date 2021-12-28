@@ -33,7 +33,7 @@ export function randint(lower: number, upper: number) {
 export const WindowHolder: FunctionComponent<Props> = ({
   children,
   window_icon,
-  window_name = "Hello World",
+  window_name = "Coming Soon!",
   show_back = false,
   appid,
   height,
