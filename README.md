@@ -4,7 +4,7 @@ This project uses Svelte, TypeScript, Vite, ESLint, Prettier and Windi CSS.
 
 *It's inspired by this amazing work:* [https://github.com/PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web)
 
-**Try it here:** [https://windows-11-web.com/](https://windows-11-on-the-web-1-2.vercel.app/)
+**Try it here:** [https://windows11ontheweb.com](https://windows-11-on-the-web-3.vercel.app/)
 
 ### Stack
 
