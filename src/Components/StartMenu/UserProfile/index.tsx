@@ -6,7 +6,7 @@ export const UserProfile = () => {
     <div class={styles.container}>
       <div class={styles.user}>
         <img
-          src="https://avatars.githubusercontent.com/u/32237558?v=4&s=50"
+          src="https://avatars.githubusercontent.com/u/93564256?s=96&v=4"
           alt="JustinL"
         />
         <p>JustinL</p>
