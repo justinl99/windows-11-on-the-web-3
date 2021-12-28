@@ -23,8 +23,4 @@ export const DesktopItems: Item[] = [{
     icon: ControlPanel,
     appId: "control-panel",
     context_menu_id: "control-panel-ctx-menu"
-}, {
-    name: "Vs Code",
-    icon: VSCodeIcon,
-    appId: "vscode"
 }]
