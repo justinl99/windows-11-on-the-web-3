@@ -1,38 +1,15 @@
-# Windows 11 Web
+#### Windows 11 made with Svelte
 
-Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
+This project uses Svelte, TypeScript, Vite, ESLint, Prettier and Windi CSS.
 
-Try Windows 11 Web:- [win11.vercel.app](https://win11.vercel.app/)
+*It's inspired by this amazing work:* [https://github.com/PuruVJ/macos-web](https://github.com/PuruVJ/macos-web)
 
-> This isn't ready yet, and who knows when it will XD
-
-### Why?
-
-Microsoft launched their newest version of Windows and I was very excited to test it out. So I made this!
-
-BTW, This project was inspired by [Macos Web](https://github.com/PuruVJ/macos-web)
+**Try it here:** [https://windows-11-web.com/](https://windows-11-on-the-web-1-2.vercel.app/)
 
 ### Stack
 
 - [Preact](https://preactjs.com/)
 - [ViteJS](http://vitejs.dev/)
-
-### Acknowledgement
-
-Thanks to [Sunrit Jana](https://twitter.com/JanaSunrise) for writing an awesome description for this project! and to [Manivannan](https://twitter.com/BeingMani97) for sharing icons with me!
-
-And to all the Super-Awesome contributors!
-
-_`(tbh, finding suitable icons is the most difficult part of making this project)`_
-
-#### More
-
-Some similar, but super awesome projects!
-
-- [Windows XP Web](https://winxp.vercel.app/) by [sh1zuku](https://github.com/ShizukuIchi/winXP)
-- [MacOS Web](https://macos.now.sh/) by [Puru Vijay](https://github.com/PuruVJ/macos-web)
-- [Ubuntu Web](https://vivek9patel.github.io/) by [Vivek Patel](https://github.com/vivek9patel/vivek9patel.github.io)
-- [Windows 11 web, but with no-code](https://windows11.webflow.io/) by [Manivannan](https://twitter.com/BeingMani97)
 
 ### Known Issues
 
@@ -45,3 +22,8 @@ Some similar, but super awesome projects!
    <img src="https://i.ibb.co/RbmX1NN/image.png" alt="image" border="0">
 
 That's it. Now you can enjoy this awesome web os with its full glory!
+ 
+ # Thanks to
+ - Piyush Suthar (code)
+ - Puru Vj (some code)
+ - JustinL (custom and update code)
