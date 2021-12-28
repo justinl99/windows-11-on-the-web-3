@@ -4,7 +4,6 @@ import file_explorer from '../assets/icons/taskbar/file_explorer.webp'
 import { MSEdgeIcon, MSStoreIcon, SettingsIcon, VSCodeIcon } from '../assets/icons/startmenu'
 import { ControlPanel, RecycleBin, ThisPC } from '../assets/icons/Desktop'
 import { Apps } from './startMenu.config'
-import { VsCodeApp } from '../Apps'
 
 export type App = {
     [key: string]: {
@@ -56,14 +55,6 @@ export const AppsConfig: App = {
         title: "Settings",
         isActive: false,
         icon: SettingsIcon
-    },
-    "vscode": {
-        title: "Visual Studio Code",
-        isActive: false,
-        icon: VSCodeIcon,
-        Component: VsCodeApp,
-        height: 500,
-        width: 800
     },
     ...Apps,
 } as const
