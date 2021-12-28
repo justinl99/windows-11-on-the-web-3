@@ -1,8 +1,8 @@
-#### Windows 11 made with Svelte
+### Windows 11 made with Svelte
 
 This project uses Svelte, TypeScript, Vite, ESLint, Prettier and Windi CSS.
 
-*It's inspired by this amazing work:* [https://github.com/PuruVJ/macos-web](https://github.com/PuruVJ/macos-web)
+*It's inspired by this amazing work:* [https://github.com/PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web)
 
 **Try it here:** [https://windows-11-web.com/](https://windows-11-on-the-web-1-2.vercel.app/)
 
@@ -15,7 +15,7 @@ This project uses Svelte, TypeScript, Vite, ESLint, Prettier and Windi CSS.
 
 - Blur not working in Firefox browser.
 
-#### Solution:-
+### Solution:
 
 1. Open `about:config` in your firefox browser.
 2. Search for `layout.css.backdrop-filter.enabled` and set it to `true`.
