@@ -35,7 +35,7 @@ export const NotificationPanel = () => {
       <div class={styles.sub_container}>
         <div class={styles.battery_indicator}>
           <BatteryIcon />
-          <p>∞</p>
+          <p>∞%</p>
         </div>
         <div class={styles.other_icons}>
           <PencilIcon size="16" />
